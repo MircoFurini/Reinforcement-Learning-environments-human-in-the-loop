@@ -1,9 +1,9 @@
 # Reinforcement-Learning-environments-GUI
 I have developed two interfaces that allow you to study gym environments and the SafePlace environment. This was developed in the thesis "A graphical tool for human-in-the-loop reinforcement learning"
 
-##Installation
+## Installation
 
-###SafePlace_GUI
+### SafePlace_GUI
 First of all, download Miniconda from the website and install it with the following
 instructions:
 '''bash
@@ -27,7 +27,7 @@ To start the program(in virtual env) go to the SafePlace GUI folder and run:
 python SafePlace / codice / dynamic_computation.py
 '''
 
-###Gymnasium_GUI
+### Gymnasium_GUI
 You can create a conda environment(follow the same instructions for SafePlace) and
 install the following libraries in conda env:
 '''
