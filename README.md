@@ -1,5 +1,5 @@
 # Reinforcement-Learning-environments-GUI
-I have developed two interfaces that allow you to study gym environments and the SafePlace environment. This was developed in the thesis "A graphical tool for human-in-the-loop reinforcement learning"
+I have developed two interfaces that allow you to study the gym environments and the SafePlace environment. This was developed in the thesis "A graphical tool for human-in-the-loop reinforcement learning"
 
 ## Installation
 
